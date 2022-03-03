@@ -9,14 +9,19 @@ Olhar digital não é saber os códigos ou linhas de comando, é saber o que faz
 
 ```js
 const iAm = {
- name: "JAMERSON FELIPE PEREIRA PAZ",
- aboutMe:" Sou de bem com a vida e acredito nas boas intenções das pesssoas.
- Gosto do convivio social,tecnologia, artes marciais, filmes e musica.
- Atualmente sou trainee e estou no Programa Starter da Growdev.",
- acknowledgements: [{design:["Produto","Gráfico","UX/UI"]},{TI:["front-end","back-end"]}], 
- primarySkillset:["focado","colaborativo","autodidata","pontual","assertivo","colaborativo"],
- listOfProgrammingLanguages:["html", "css", "JavaScript", "nodeJs","typescript", "React"] 
-}
+  name: 'JAMERSON FELIPE PEREIRA PAZ',
+  aboutMe: [
+    ' Sou de bem com a vida e acredito nas boas intenções das pesssoas.',
+    'Gosto do convivio social,tecnologia, artes marciais, filmes e musica.',
+    ' Atualmente sou trainee e estou no Programa Starter da Growdev.',
+  ],
+  acknowledgements: [
+    { id: 1, design: ['Produto', 'Gráfico', 'UX/UI'] },
+    { id: 2, developement: ['front-end', 'back-end'] },
+  ],
+  primarySkillset: ['focado', 'colaborativo', 'autodidata', 'pontual', 'assertivo', 'colaborativo'],
+  listOfProgrammingLanguages: ['html', 'css', 'JavaScript', 'nodeJs', 'typescript', 'React'],
+};
 ```
 
 ## **Linguagens e Ferramentas:**  
