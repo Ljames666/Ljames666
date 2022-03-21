@@ -1,11 +1,13 @@
 
 ### Oie devs 👋
 
-Olhar digital não é saber os códigos ou linhas de comando, é saber o que fazer com eles para chegar em algum lugar.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13832C&background=27272700&multiline=true&height=110&lines=Olhar+digital+n%C3%A3o+%C3%A9+saber+os+c%C3%B3digos;ou+linhas+de+comando%2C;%C3%A9+saber+o+que+fazer+com+eles+para+;chegar+em+algum+lugar!)](https://git.io/typing-svg)
+
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
+<img align="right" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 ```js
 const iAm = {
@@ -19,8 +21,22 @@ const iAm = {
     { id: 1, design: ['Produto', 'Gráfico', 'UX/UI'] },
     { id: 2, developement: ['front-end', 'back-end'] },
   ],
-  primarySkillset: ['focado', 'colaborativo', 'autodidata', 'pontual', 'assertivo', 'colaborativo'],
-  listOfProgrammingLanguages: ['html', 'css', 'JavaScript', 'nodeJs', 'typescript', 'React'],
+  primarySkillset: [
+    'focado',
+    'colaborativo',
+    'autodidata',
+    'pontual', 
+    'assertivo',
+    'colaborativo'
+  ],
+  listOfProgrammingLanguages: [
+    'html', 
+    'css', 
+    'JavaScript', 
+    'nodeJs', 
+    'typescript', 
+    'React'
+  ],
 };
 ```
 
@@ -61,12 +77,17 @@ const iAm = {
 </a>
 
 <a href="https://github.com/Ljames666">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ljames666&show_icons=true&theme=highcontrast&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ljames666&show_icons=true&theme=highcontrast&line_height=40" alt="**SEU NOME** github stats"/>
 </a>
-    </br>
+   
+    
+<a href="https://github.com/Ljames666">
+ <img align="center" height=314 src="http://github-readme-streak-stats.herokuapp.com?user=Ljames666&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=C2CB12&currStreakLabel=C2CB12&fire=C2CB12&sideNums=00FEFE&currStreakNum=00FEFE" alt="**SEU NOME** streak-stats"/>
+</a>
+ 
  </br>
   </br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ljames666&theme=highcontrast&title=Stars,Followers,Commit,Repo&margin-w=30&margin-h=30&row=1&column=4&no-frame=true" />
+<img  src="https://github-profile-trophy.vercel.app/?username=Ljames666&theme=highcontrast&title=Stars,Followers,Commit,Repo&margin-w=30&margin-h=30&row=1&column=4&no-frame=true" />
 </div>
 
 
@@ -98,5 +119,7 @@ const iAm = {
 <a href="https://t.me/pazJamerson/">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<br/>
 
+## **Meme do dia!**
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
