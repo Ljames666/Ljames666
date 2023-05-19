@@ -15,8 +15,10 @@ const iAm = {
   aboutMe: [
     ' Sou de bem com a vida e acredito nas boas intenções das pesssoas.',
     'Gosto do convivio social,tecnologia, artes marciais, filmes e musica.',
-    ' Atualmente sou trainee e estou no Programa Starter da Growdev.',
+    ' Atualmente focado em Data Science, DevOps e DevSecOps.',
   ],
+  occupation:['Software Engineer','Programming Monitor'],
+  companies:['SafeTech','Growdev'],
   acknowledgements: [
     { id: 1, design: ['Produto', 'Gráfico', 'UX/UI'] },
     { id: 2, developement: ['front-end', 'back-end'] },
@@ -35,11 +37,15 @@ const iAm = {
     'JavaScript', 
     'nodeJs', 
     'typescript',
-    'java'
-    'springboot'
-    'python'
-    'pyscript'
-    'React'
+    'java',
+    'springboot',
+    'python',
+    'pyscript',
+    'React',
+    'NextJS',
+    'NestJS',
+    'GraphQl',
+    'SOL'
   ],
 };
 ```
